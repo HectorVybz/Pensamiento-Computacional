@@ -1,0 +1,4 @@
+Profesor, me gustaria que revaluara el avance 1,2,3,4 y 5.
+En el avance 1 (README.md), ya modifiqué el texto incluyendo entradas, salidas y proceso.
+En el avance 2, 3 y 4 (ListaGod.py), tengo algunos operadores y tambien hago uso de funciones, return y condicionales.
+En el avance 5 (ListaGod5.py), hago uso de los ciclos while y for.
